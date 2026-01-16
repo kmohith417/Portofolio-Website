@@ -56,6 +56,7 @@ This repository contains a **responsive personal portfolio website** created usi
 ## Sample Output
 The output of the project is a responsive personal portfolio website. It displays a home section with a brief introduction, a skills section with progress bars, and a projects section showcasing completed work. A contact form is included to allow users to send messages easily. The website adapts well to different screen sizes and devices.
 
-![Uploading Screenshot (89).png…]()
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/88304389-4ece-42b6-8914-e8bce291fceb" />
 
-<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/4059c665-0db2-4bca-969c-2bf80f76270c" />
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/536a419e-ac48-4b56-880d-504c66add484" />
+
