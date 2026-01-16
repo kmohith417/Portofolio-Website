@@ -53,36 +53,9 @@ This repository contains a **responsive personal portfolio website** created usi
 3. Double-click `index.html`
 5. other option - Open `index.html` using any web browser.
 
+## Sample Output
+The output of the project is a responsive personal portfolio website. It displays a home section with a brief introduction, a skills section with progress bars, and a projects section showcasing completed work. A contact form is included to allow users to send messages easily. The website adapts well to different screen sizes and devices.
 
-## 🌍 Deploy on GitHub Pages
+![Uploading Screenshot (89).png…]()
 
-1. Push the project to a GitHub repository.
-2. Go to **Settings → Pages**.
-3. Select:
-
-   * Branch: `main`
-   * Folder: `/root`
-4. Save and wait for deployment.
-5. Your portfolio will be live at:
-   https://yourusername.github.io/repository-name/
-
-## ✏️ Customization
-
-* Replace **Your Name** with your actual name.
-* Update skills, projects, and links.
-* Change profile image URL.
-* Modify colors and styles in the `<style>` section.
-
-
-## 📄 License
-
-This project is open-source and free to use for educational and personal purposes.
-
-## 👤 Author
-
-**Your Name**
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-
-
-
-
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/4059c665-0db2-4bca-969c-2bf80f76270c" />
